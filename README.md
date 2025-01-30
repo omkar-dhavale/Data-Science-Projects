@@ -10,11 +10,7 @@ Each project explores **real-world datasets** and applies different data science
 ## 📂 Projects  
 
 ### 📊 **Data Analysis & SQL Projects**  
-- **Project 1:** SQL Query - IMDB Dataset Analysis  
-- **Project 2:** FIFA Dataset Analysis (Web Scraping)  
-- **Project 3:** JSON Dataset Analysis  
-- **Project 4:** Technology Lookup Data Cleaning (JSON)  
-- **Project 5:** Data Analysis on Olympics Dataset  
+This repository contains multiple data science projects covering SQL analysis, web scraping, JSON data processing, data cleaning, exploratory data analysis (EDA), and deep learning with autoencoders. Each project is designed to demonstrate different aspects of data manipulation, visualization, and machine learning.  
 
 ### 🔍 **Machine Learning & Predictive Modeling**  
 - **Decision Tree Project:** Price Prediction of Used Cars  
